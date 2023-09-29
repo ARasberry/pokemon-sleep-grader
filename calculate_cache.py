@@ -59,7 +59,8 @@ Poke2Type = {
     'Magnezone': PTYPE.Skill,
     'Togekiss': PTYPE.Skill,
     'Leafeon': PTYPE.Skill, 'Glaceon': PTYPE.Skill, 'Sylveon': PTYPE.Skill,
-	'Mime.Jr': PTYPE.Ingredient, 'Mr. Mime': PTYPE.Ingredient
+	'Mime.Jr': PTYPE.Ingredient, 'Mr. Mime': PTYPE.Ingredient,
+	'Cleffa': PTYPE.Berry, 'Clefairy':PTYPE.Berry, 'Clefable':PTYPE.Berry'
 }
 
 Nature2Score = {
